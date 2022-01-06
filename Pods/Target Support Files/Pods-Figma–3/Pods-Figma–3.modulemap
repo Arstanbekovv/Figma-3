@@ -1,0 +1,6 @@
+framework module Pods_Figma_3 {
+  umbrella header "Pods-Figma–3-umbrella.h"
+
+  export *
+  module * { export * }
+}
